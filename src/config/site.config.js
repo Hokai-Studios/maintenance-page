@@ -36,14 +36,14 @@ const siteConfig = {
     {
       id: 'apply',
       labelKey: 'buttons.apply',
-      href: 'https://example.com/apply',
+      href: 'https://discord.gg/k4tzbqqcAT',
       variant: 'primary',
       icon: 'apply',
     },
     {
       id: 'discord',
       labelKey: 'buttons.discord',
-      href: 'https://discord.gg/your-invite',
+      href: 'https://discord.gg/k4tzbqqcAT',
       variant: 'secondary',
       icon: 'discord',
     },
