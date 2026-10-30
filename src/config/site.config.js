@@ -5,11 +5,11 @@
  */
 const siteConfig = {
   // Used for the logo fallback, page title and footer
-  name: 'MyServer',
+  name: 'Hokai.net',
 
   logo: {
     src: '/images/logo.png',
-    alt: 'MyServer',
+    alt: 'Hokai.net',
     width: 320, // use an integer multiple of the original size for crisp pixels
     animate: true, // gentle pixel bobbing
   },

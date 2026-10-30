@@ -1,24 +1,20 @@
-/**
- * German texts.
- * Placeholders: {name} (site name) and {year} are filled in automatically.
- */
 const de = {
   meta: {
-    title: '{name} – Wartungsarbeiten',
-    description: '{name} befindet sich gerade in Wartung. Wir sind bald zurück!',
+    title: '{name} – Demnächst',
+    description: '{name} befindet sich im Aufbau. Bleib gespannt!',
   },
   status: {
-    badge: 'Wartungsmodus',
+    badge: 'Wartungsarbeiten',
   },
   maintenance: {
-    title: 'Wartungsarbeiten',
-    slogan: 'Wir schürfen nach Verbesserungen – bald geht’s weiter!',
+    title: 'Im Aufbau',
+    slogan: 'Wir erschaffen Gutes – bald geht’s los!',
     description:
-      'Unser Server wird gerade umgebaut und erweitert. Schau bald wieder vorbei oder komm auf unseren Discord, um nichts zu verpassen.',
+        'Unser Server nimmt Gestalt an. Wir arbeiten daran, etwas Besonderes zu schaffen. Schau bald wieder vorbei oder tritt unserem Discord für Updates bei.',
   },
   progress: {
     label: 'Fortschritt',
-    working: 'Wir arbeiten daran',
+    working: 'Der Aufbau hat begonnen',
   },
   buttons: {
     apply: 'Bewerben',
@@ -27,16 +23,16 @@ const de = {
   tips: {
     label: 'Tipp',
     items: [
-      'Auf Discord erfährst du als Erstes, wann wir wieder online sind.',
-      'Beim Warten: Sammle schon mal Ideen für deine nächste Base.',
-      'Ein Server-Update ist wie ein Nether-Portal: Es dauert, aber es lohnt sich.',
+      'Tritt unserem Discord bei und erfahre zuerst von unserem Start.',
+      'Wir suchen dich – bewirb dich jetzt und werde Teil des Teams!',
+      'Gute Server entstehen Block für Block.',
     ],
   },
   footer: {
     imprint: 'Impressum',
     privacy: 'Datenschutz',
     copyright: '© {year} {name}',
-    disclaimer: 'Kein offizielles Minecraft-Produkt. Nicht von Mojang oder Microsoft genehmigt oder mit ihnen verbunden.',
+    disclaimer: 'Not affiliated with Mojang AB or Microsoft.',
   },
 }
 

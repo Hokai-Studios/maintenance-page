@@ -1,24 +1,20 @@
-/**
- * English texts (also the fallback language).
- * Placeholders: {name} (site name) and {year} are filled in automatically.
- */
 const en = {
   meta: {
-    title: '{name} – Maintenance',
-    description: '{name} is currently under maintenance. We will be back soon!',
+    title: '{name} – Coming Soon',
+    description: '{name} is currently being built. Stay tuned!',
   },
   status: {
-    badge: 'Maintenance mode',
+    badge: 'Maintenance',
   },
   maintenance: {
-    title: 'Under Maintenance',
-    slogan: 'Mining for improvements – back online soon!',
+    title: 'Under Construction',
+    slogan: 'Building something great – coming soon!',
     description:
-      'Our server is being rebuilt and expanded right now. Check back soon or join our Discord so you do not miss anything.',
+        'Our server is taking shape. We are working hard to create something special. Check back soon or join our Discord for updates.',
   },
   progress: {
     label: 'Progress',
-    working: 'Work in progress',
+    working: 'Building in progress',
   },
   buttons: {
     apply: 'Apply',
@@ -27,16 +23,16 @@ const en = {
   tips: {
     label: 'Tip',
     items: [
-      'Join our Discord to be the first to know when we are back online.',
-      'While you wait: collect ideas for your next base.',
-      'A server update is like a Nether portal: it takes a while, but it is worth it.',
+      'Join our Discord to be the first to hear about our launch.',
+      'We are looking for new team members – apply now and join us!',
+      'Great servers are built one block at a time.',
     ],
   },
   footer: {
     imprint: 'Imprint',
     privacy: 'Privacy Policy',
     copyright: '© {year} {name}',
-    disclaimer: 'Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.',
+    disclaimer: 'Not affiliated with Mojang AB or Microsoft.',
   },
 }
 
